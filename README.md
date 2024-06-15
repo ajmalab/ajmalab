@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="">
-  <img align="center" height=200 src="https://github-readme-stats-ruddy-seven.vercel.app/api?username=ajmalab&show_icons=true&theme=radical"/>
+  <img align="center" height=200 src="https://github-readme-stats-ruddy-seven.vercel.app/api?username=ajmalab&show_icons=true&theme=radical&hide_rank=true"/>
 </a>
 <a href="">
   <img align="center" height=200 src="https://github-readme-stats-ruddy-seven.vercel.app/api/top-langs/?username=ajmalab&show_icons=true&theme=radical&langs_count=8&card_width=320&layout=compact"/>
