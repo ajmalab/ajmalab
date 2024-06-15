@@ -1,4 +1,4 @@
-
+👋
 
 <!--
 **ajmalab/ajmalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="">
+<!--a href="">
   <img align="center" height=200 src="https://github-readme-stats-ruddy-seven.vercel.app/api?username=ajmalab&show_icons=true&theme=radical&hide_rank=true"/>
 </a>
 <a href="">
   <img align="center" height=200 src="https://github-readme-stats-ruddy-seven.vercel.app/api/top-langs/?username=ajmalab&show_icons=true&theme=radical&langs_count=8&card_width=320&layout=compact"/>
-</a>
+</a-->
